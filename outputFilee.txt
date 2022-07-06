@@ -1,0 +1,15 @@
+nadjen 0 i x
+fisrt:
+.equ tim_cfg, 0xFF10|
+.equ tim_cfg, 65296|
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+nadjen 0 i x
+fisrt:
+ ldr r0,$0x1|
+ ldr r0,$1|

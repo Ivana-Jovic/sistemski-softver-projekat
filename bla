@@ -1,0 +1,3 @@
+g++ -o run ./src/*.cpp
+
+./run -o izlaz1.o ./tests/mm.s
